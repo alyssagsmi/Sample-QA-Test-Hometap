@@ -25,7 +25,7 @@ This project is a Selenium automation script for logging into the Hometap dashbo
     ```sh
     setx HOMETAP_PASSWORD "your_password_here"
 
-4.**Run the Script**
+4. **Run the Script**
 - Open a terminal and navigate to your project directory.
 - Copy code and run the script
     ```sh
@@ -34,8 +34,6 @@ This project is a Selenium automation script for logging into the Hometap dashbo
 
 **Notes:**
 
--Increase wait times during development and debugging as needed.
-
--Ensure the correct locators for the email and password fields.
-
--Suppress pop-ups in the Edge browser with appropriate options.
+- Increase wait times during development and debugging as needed.
+- Ensure the correct locators for the email and password fields.
+- Suppress pop-ups in the Edge browser with appropriate options.
