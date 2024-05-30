@@ -34,5 +34,7 @@ This project is a Selenium automation script for logging into the Hometap dashbo
 
 **Notes:**
 -Increase wait times during development and debugging as needed.
+
 -Ensure the correct locators for the email and password fields.
+
 -Suppress pop-ups in the Edge browser with appropriate options.
