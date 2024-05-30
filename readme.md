@@ -4,6 +4,7 @@ Hello, World!
 This project is a Selenium automation script for logging into the Hometap dashboard using Microsoft Edge.
 
 ## Prerequisites
+(Instructions given for Windows 11 Pro)
 
 - Python 3.x
 - Selenium
@@ -29,6 +30,7 @@ This project is a Selenium automation script for logging into the Hometap dashbo
 - Copy code and run the script
     ```sh
     python test_login_edge.py
+```
 
 **Notes:**
 Increase wait times during development and debugging as needed.
